@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper Tepebas</h1>
-<h3 align="center">A passionate frontend developer from U.S.A</h3>
+<h3 align="center">A passionate developer from U.S.A</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b76111f61f758d7a149acb5b96e677673a34bd168bebb&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpertepebas&label=Profile%20views&color=0e75b6&style=flat" alt="alpertepebas" /> </p>
